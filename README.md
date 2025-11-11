@@ -1,6 +1,6 @@
 # Ideal-observer model DEMO
 
-This is an interactive model demo of the project [Visual confidence accurately tracks increased internal noise in peripheral vision](https://www.cns.nyu.edu/~msl/talks/lietal25.pdf). You can find the experiment and model details in the slides for the talk at Vision Science Society 2025.
+This is an interactive model demo of the project "Visual confidence accurately tracks increased internal noise in peripheral vision" (manuscript in preperation). You can find the experiment and model details in the [slides](https://www.cns.nyu.edu/~msl/talks/lietal25.pdf) of the talk at Vision Science Society 2025.
 
 ## Launch the App
 
